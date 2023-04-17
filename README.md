@@ -1,6 +1,10 @@
 # pygame_UNDEAD_MENACE
 
-To play the game, run the MAINGAME.py file
+To play the game, run the MAINGAME.py file  <br />
+OR
+ <br />
+ Decompress MAINGAME.zip then MAINGAME -> (run)MAINGAME.exe
+ <br />
 
 ## GAME CONTROL INFO:
 W - FORWARD <br />
