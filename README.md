@@ -2,9 +2,11 @@
 
 To play the game, run the MAINGAME.py file
 
-#GAME CONTROL INFO:
-W - FORWARD
-A - LEFT
-D - RIGHT
-E - MOLOTOV
-Q - NADE
+## GAME CONTROL INFO:
+W - FORWARD <br />
+A - LEFT <br />
+D - RIGHT <br />
+E - MOLOTOV <br />
+Q - NADE <br />
+## LICENSE 
+MIT. See LICENSE for more informations
