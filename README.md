@@ -12,5 +12,5 @@ Q - NADE <br />
 MIT. See LICENSE for more informations
 
 # packages required
-pyautogui
+pyautogui <br />
 pygame
