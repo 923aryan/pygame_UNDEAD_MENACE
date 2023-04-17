@@ -10,3 +10,7 @@ E - MOLOTOV <br />
 Q - NADE <br />
 ## LICENSE 
 MIT. See LICENSE for more informations
+
+# packages required
+pyautogui
+pygame
