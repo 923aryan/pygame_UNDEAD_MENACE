@@ -1,4 +1,4 @@
-# pygame_UNDEAD_MENACE
+# pygame_UNDEAD_MENACE  (Windows)
 
 To play the game, run the MAINGAME.py file  <br />
 OR
